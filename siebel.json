@@ -18,51 +18,51 @@
     },
     {
       "name": "boomer",
-      "attack": 2.0,
-      "defense": 2.0,
+      "attack": 4.0,
+      "defense": 4.0,
       "health": 5.0
     },
     {
       "name": "spitter",
-      "attack": 2.0,
-      "defense": 2.5,
+      "attack": 4.0,
+      "defense": 4.5,
       "health": 5.0
     },
     {
       "name": "smoker",
-      "attack": 2.5,
-      "defense": 3.0,
+      "attack": 6.0,
+      "defense": 6.0,
       "health": 5.0
     },
     {
       "name": "jockey",
-      "attack": 3.5,
-      "defense": 2.0,
-      "health": 5.0
+      "attack": 6.5,
+      "defense": 5.0,
+      "health": 8.0
     },
     {
       "name": "hunter",
-      "attack": 3.5,
-      "defense": 3.0,
-      "health": 5.0
+      "attack": 8.0,
+      "defense": 6.0,
+      "health": 8.0
     },
     {
       "name": "charger",
-      "attack": 3.5,
-      "defense": 3.0,
-      "health": 5.0
+      "attack": 9.5,
+      "defense": 7.0,
+      "health": 10.0
     },
     {
       "name": "witch",
-      "attack": 5.5,
-      "defense": 2.0,
-      "health": 5.0
+      "attack": 15.5,
+      "defense": 5.0,
+      "health": 10.0
     },
     {
       "name": "tank",
-      "attack": 6.0,
-      "defense": 4.0,
-      "health": 5.0
+      "attack": 15.0,
+      "defense": 20.0,
+      "health": 20.0
     }
   ],
   "rooms": [
