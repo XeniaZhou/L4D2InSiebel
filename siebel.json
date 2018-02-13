@@ -2,8 +2,8 @@
   "startingRoom": "MatthewsStreet",
   "endingRoom": "Siebel1314",
   "player": {
-    "name": "Hero",
-    "health": 10.0,
+    "name": "Zoey",
+    "health": 5.0,
     "attack": 3.0,
     "defense": 3.0,
     "items": [],
@@ -14,7 +14,7 @@
       "name": "infected",
       "attack": 1.0,
       "defense": 1.0,
-      "health": 3.0
+      "health": 5.0
     },
     {
       "name": "boomer",
@@ -60,9 +60,9 @@
     },
     {
       "name": "tank",
-      "attack": 5.0,
-      "defense": 3.0,
-      "health": 6.0
+      "attack": 6.0,
+      "defense": 4.0,
+      "health": 5.0
     }
   ],
   "rooms": [
