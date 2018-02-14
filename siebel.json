@@ -148,6 +148,12 @@
     {
       "name": "SiebelNorthHallway",
       "description": "You are in the north hallway.  You can see Siebel 1112 and the door toward NCSA.",
+      "items": [
+        {
+        "name": "Frying pan",
+        "damage": 1.0
+        }
+      ],
       "directions": [
         {
           "directionName": "South",
