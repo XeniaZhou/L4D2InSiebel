@@ -1,4 +1,4 @@
-{
+  {
   "startingRoom": "MatthewsStreet",
   "endingRoom": "Siebel1314",
   "player": {
@@ -148,10 +148,6 @@
     {
       "name": "SiebelNorthHallway",
       "description": "You are in the north hallway.  You can see Siebel 1112 and the door toward NCSA.",
-      "monsterInRoom" : [
-        "infected",
-        "hunter"
-      ],
       "directions": [
         {
           "directionName": "South",
@@ -166,6 +162,10 @@
     {
       "name": "Siebel1112",
       "description": "You are in Siebel 1112.  There is space for two code reviews in this room.",
+      "monsterInRoom" : [
+        "infected",
+        "hunter"
+      ],
       "items": [
         {
           "name": "Sniper Rifle",
